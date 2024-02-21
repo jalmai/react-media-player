@@ -1,36 +1,52 @@
 {
   "songs": [
     {
+      "index": 1,
       "name": "Bohemian Rhapsody",
-      "artist": "Queen"
+      "artist": "Queen",
+      "length_seconds": 367
     },
     {
+      "index": 2,
       "name": "Another One Bites the Dust",
-      "artist": "Queen"
+      "artist": "Queen",
+      "length_seconds": 215
     },
     {
+      "index": 3,
       "name": "We Will Rock You",
-      "artist": "Queen"
+      "artist": "Queen",
+      "length_seconds": 122
     },
     {
+      "index": 4,
       "name": "Somebody to Love",
-      "artist": "Queen"
+      "artist": "Queen",
+      "length_seconds": 299
     },
     {
+      "index": 5,
       "name": "Under Pressure",
-      "artist": "Queen"
+      "artist": "Queen",
+      "length_seconds": 240
     },
     {
+      "index": 6,
       "name": "Don't Stop Me Now",
-      "artist": "Queen"
+      "artist": "Queen",
+      "length_seconds": 209
     },
     {
+      "index": 7,
       "name": "Radio Ga Ga",
-      "artist": "Queen"
+      "artist": "Queen",
+      "length_seconds": 330
     },
     {
+      "index": 8,
       "name": "Killer Queen",
-      "artist": "Queen"
+      "artist": "Queen",
+      "length_seconds": 181
     }
   ]
 }
