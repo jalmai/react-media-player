@@ -1,7 +1,8 @@
-export function App() {
+import { LandingPage } from "./pages/LandingPage";
+export function App(): JSX.Element {
   return (
     <>
-      <h1>This is the App component</h1>
+      <LandingPage />
     </>
   );
 }
