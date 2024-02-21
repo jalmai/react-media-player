@@ -8,6 +8,7 @@ export function LandingPage(): JSX.Element {
         <span className="three-dots material-icons"> more_vert </span>
       </header>
       <main className="media-player">
+        {/* TODO: Move to NowPlaying.tsx */}
         <section className="song">
           <figure className="album-image-container">
             <img
