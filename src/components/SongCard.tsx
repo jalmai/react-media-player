@@ -1,6 +1,6 @@
 import songs from "../assets/songs.json";
 const playlist = songs.songs;
-export function SongListSingle(): JSX.Element {
+export function SongCard(): JSX.Element {
   return (
     <>
       {playlist.map(function (data) {
